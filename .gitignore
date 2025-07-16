@@ -1,0 +1,10 @@
+minidb
+*.exe
+*.o
+*.obj
+*.log
+.DS_Store
+.vscode/
+.idea/
+/minidb.txt
+/Planning.txt
