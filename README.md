@@ -85,7 +85,7 @@ Pull requests and suggestions are welcome! If you'd like to collaborate, feel fr
 ---
 
 ## 📄 License
-MIT License © 2025 [Your Name]
+MIT License © 2025 [Sayan-467]
 
 ---
 
